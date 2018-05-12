@@ -1,0 +1,39 @@
+_repo: Contos-Paraenses_30341
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalho, João Marques de
+    aliases:
+    - Marques de Carvalho, João
+    - De Carvalho, João Marques
+    - Carvalho, Marques de
+    - Carvalho, Joao Marques de
+    birthdate: 1866
+    deathdate: 1910
+    gutenberg_agent_id: '33487'
+    url: http://www.gutenberg.org/2009/agents/33487
+    wikipedia: http://pt.wikipedia.org/wiki/Marques_de_Carvalho
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2009-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30341'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: 'Alegria gauleza -- A convalescente -- Desillusão -- A "Serenata"
+  de Schubert -- Que bom marido! -- Noite de finados -- Rio abaixo -- Ao despertar
+  -- Poemetos em prosa: I. Bidinha. II. Paraphrase ossianica. III. O parocho da aldeia.
+  IV. Ao sol. V. Remember -- O preço das pazes -- Historia incongruente -- A licção
+  de "Paleographo" -- Ao soprar á véla -- No baile do commendador.'
+title: Contos Paraenses
+url: http://www.gutenberg.org/ebooks/30341
